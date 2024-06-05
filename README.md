@@ -11,3 +11,5 @@ Then you can install the requirement files using:
 ```!python3 -m pip install -r requirements.txt ```
 
 ______
+
+Two-component Gaussian idea from: [https://github.com/bmorris3/jax-code-coffee](https://github.com/bmorris3/jax-code-coffee)
